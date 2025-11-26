@@ -7,15 +7,24 @@ To write a C++ program using a class to convert temperature from Fahrenheit to C
 
 ## Algorithm:
 STEP 1: Start the program.
+
 STEP 2: Create a class named Temperature.
+
 STEP 3: Declare a private data member fahrenheit.
+
 STEP 4: Inside the class, define a public method getData() to read Fahrenheit value from the user.
+
 STEP 5: Define another public method convert() to convert Fahrenheit to Celsius using the formula:
   Celsius = (Fahrenheit − 32) × 5 / 9
+  
 STEP 6: Define a method display() to print the Celsius value.
+
 STEP 7: In the main() function, create an object of the Temperature class.
+
 STEP 8: Call the method getData() to input Fahrenheit.
+
 STEP 9: Call convert() and then display() to show the Celsius value.
+
 STEP 10: End the program.
 
 
