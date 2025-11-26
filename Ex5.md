@@ -59,7 +59,7 @@ int findMin(A x, B y) {
 int main() {
     A a(10);
     B b(7);
-    cout << "Min = " << findMin(a, b);
+    cout << "Minimum value is " << findMin(a, b);
 }
 
 ```
@@ -73,5 +73,5 @@ int main() {
 
 ## Result:
 Thus, the C++ program using a friend function successfully finds the minimum integer value among members of two different classes.
-Thus, the C++ program using a friend function is executed successfully to find the minimum integer value among members of two different classes.
+
 
